@@ -1,0 +1,168 @@
+[
+  {
+    "Id": "book0",
+    "Author": "Ann Whitford Paul and David Walker",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51PRQuO-xjL._AC_SX184_.jpg",
+    "Title": "If Animals Kissed Good Night",
+    "Description": "If animals kissed good night like we do...how would they do it? Giraffe and his calf would stretch their necks high, Wolf and his pup would kiss and then HOWL, and Sloth and her baby would move sooooo sloooowwwww. And across the animal kingdom, every creature would share love in a unique way.",
+    "Ratings": null
+  },
+  {
+    "Id": "book1",
+    "Author": "Marcus Pfister and J Alison James",
+    "img": "https://m.media-amazon.com/images/I/91pdllYEUfL._AC_UL320_.jpg",
+    "Title": "The Rainbow Fish",
+    "Description": "Eye-catching foil stamping, glittering on every page, offers instant child appeal, but it is the universal message at the heart of this simple story about a beautiful fish who learns to make friends by sharing his most prized possessions that gives the book its lasting value.",
+    "Ratings": [
+      1,
+      2,
+      2,
+      3
+    ]
+  },
+  {
+    "Id": "book2",
+    "Author": "Tim Tebow",
+    "img": "https://m.media-amazon.com/images/I/A1pI53UQHvL._AC_UL320_.jpg",
+    "Title": "Bronco and Friends: A Party to Remember",
+    "Description": "Bronco received an invitation to a party, but he can\u2019t find the puzzle piece everyone is supposed to bring. During his search, he encounters a variety of friends with their own set of worries: a flightless bird, an allergic goat, and a clumsy bunny. The animals team up to find both Bronco\u0027s puzzle piece and the party, arriving to discover that the party is in their honor!",
+    "Ratings": null
+  },
+  {
+    "Id": "book3",
+    "Author": "Julia Donaldson and Axel Scheffler",
+    "img": "https://m.media-amazon.com/images/I/A1XyS0D1S-L._AC_UL320_.jpg",
+    "Title": "Room on the Broom",
+    "Description": "The witch and her cat are happily flying through the sky on a broomstick when the wind picks up and blows away the witch\u0027s hat, then her bow, and then her wand!  Luckily, three helpful animals find the missing items, and all they want in return is a ride on the broom.  But is there room on the broom for so many friends?  And when disaster strikes, will they be able to save the witch from a hungry dragon?",
+    "Ratings": null
+  },
+  {
+    "Id": "book4",
+    "Author": "Adam Wallace and Andy Elkerton",
+    "img": "https://m.media-amazon.com/images/I/81pSk7OtCvL._AC_UL320_.jpg",
+    "Title": "How to Catch the Tooth Fairy",
+    "Description": "From losing your first tooth to waiting for the arrival of the mysterious tooth fairy, How to Catch the Tooth Fairy celebrates this special event in your child\u0027s life with a lively story of the tooth fairy\u0027s escape from some very determined kids! Get ready to laugh along with this zany story as the tooth fairy dodges traps, drool, dental floss webs, and more in this fun bedtime book for kids that combines silly rhymes and bright illustrations with STEAM concepts! Can you catch her?",
+    "Ratings": null
+  },
+  {
+    "Id": "book5",
+    "Author": " Emily Winfield Martin",
+    "img": "https://m.media-amazon.com/images/I/91Sv0lGpX3L._AC_UL320_.jpg",
+    "Title": "The Wonderful Things You Will Be",
+    "Description": "From brave and bold to creative and clever, Emily Winfield Martin\u0027s rhythmic rhyme expresses all the loving things that parents think of when they look at their children.",
+    "Ratings": [
+      1,
+      2,
+      2
+    ]
+  },
+  {
+    "Id": "book6",
+    "Author": "David Cunliffe and Ivan Barrera",
+    "img": "https://m.media-amazon.com/images/I/81RlfbsMWsL._AC_UL320_.jpg",
+    "Title": "Whoever Heard of a Flying Bird?: A Children\u0027s Book About Not Giving Up",
+    "Description": "Pip is a little bird who wants nothing more than to eat the fresh fruit high up in the trees. There\u2019s just one problem \u2013 on her island, birds don\u0027t fly! All the other birds think the idea of flying sounds ridiculous. After all, whoever heard of a flying bird?",
+    "Ratings": [
+      1,
+      2,
+      2,
+      3,
+      3,
+      3
+    ]
+  },
+  {
+    "Id": "book7",
+    "Author": "Temi D\u00EDaz , Jose Navarro",
+    "img": "https://m.media-amazon.com/images/I/61ZVGyPevgL._AC_UL320_.jpg",
+    "Title": "Who Would You Rather Be?: A Book about Values, Morals, and the Purpose of Living Life",
+    "Description": "The story is about a curious boy named Andy, who wishes to see himself in the future. Surprisingly, his wish comes true. Will he like what he sees?",
+    "Ratings": [
+      1,
+      2,
+      2
+    ]
+  },
+  {
+    "Id": "book8",
+    "Author": "Alan Watts and Illustrator Khoa Le",
+    "img": "https://m.media-amazon.com/images/I/A1l\u002BP\u002BILPgL._AC_UL320_.jpg",
+    "Title": "The Fish Who Found the Sea",
+    "Description": "Alan Watts, beloved for bringing a childlike wonder to the spiritual journey, once wrote a story for children. The Fish Who Found the Sea brings this delightful and wise parable to life for a new generation. Presented with new art from award-winning illustrator Khoa Le, here is a story as timely as it is entertaining\u2015sharing a key message about getting into harmony with the flow of life.",
+    "Ratings": null
+  },
+  {
+    "Id": "book9",
+    "Author": "Hoda Kotb and Suzie Mason",
+    "img": "https://m.media-amazon.com/images/I/61dutbUvPmL._AC_UL320_.jpg",
+    "Title": "I\u0027ve Loved You Since Forever",
+    "Description": "I\u2019ve Loved You Since Forever is a celebratory and poetic testament to the timeless love felt between parent and child. This beautiful picture book is inspired by Today show co-anchor Hoda Kotb\u2019s heartwarming adoption of her baby girl, Haley Joy. ",
+    "Ratings": null
+  },
+  {
+    "Id": "book10",
+    "Author": "Mrs Lauren Grabois Fischer and Mr. Devin Hunt",
+    "img": "https://m.media-amazon.com/images/I/81YdbHyvrXL._AC_UL320_.jpg",
+    "Title": "Life (The Be Books)",
+    "Description": "Life is a gift and an opportunity. We can choose what we want to write on the pages on our unwritten story. With purpose, courage, gratitude, positivity, and love; anything is possible. Age is just a number. Gratitude is a choice. Peace is something that we build from within. Happiness can be created. Love is what makes everything worthwhile. May you live your life with meaning and enjoy the journey. A wonderful children\u0027s book about life and seeing the world through your own eyes.",
+    "Ratings": null
+  },
+  {
+    "Id": "book11",
+    "Author": "Adam Wallace",
+    "img": "https://m.media-amazon.com/images/I/81Zj4ibm\u002BhL._AC_UL320_.jpg",
+    "Title": "How to Catch a Mermaid",
+    "Description": "How do you catch a mermaid? You must be very clever. With mirrors, crowns, and pearls galore, this quest can\u0027t last forever!  ",
+    "Ratings": [
+      1,
+      2,
+      3,
+      4,
+      4,
+      3
+    ]
+  },
+  {
+    "Id": "book12",
+    "Author": "Laura Numeroff",
+    "img": "https://m.media-amazon.com/images/I/51aCFGh8IBL._AC_UL320_.jpg",
+    "Title": "If You Give a Mouse a Cookie",
+    "Description": "If a hungry little mouse shows up on your doorstep, you might want to give him a cookie. And if you give him a cookie, he\u0027ll ask for a glass of milk. He\u0027ll want to look in a mirror to make sure he doesn\u0027t have a milk mustache, and then he\u0027ll ask for a pair of scissors to give himself a trim...This book is a great first introduction to Mouse, the star of the If You Give... series and a perennial favorite among children. With its spare, rhythmic text and circular tale,\u00A0If You Give a Mouse a Cookie\u00A0is perfect for beginning readers and story time!",
+    "Ratings": null
+  },
+  {
+    "Id": "book13",
+    "Author": "Amy Krouse Rosenthal",
+    "img": "https://m.media-amazon.com/images/I/91U3OBIZ0-L._AC_UL320_.jpg",
+    "Title": "I Wish You More (Encouragement Gifts for Kids, Uplifting Books for Graduation)",
+    "Description": "Some books are about a single wish. Some books are about three wishes. The infallible team of Amy Krouse Rosenthal and Tom Lichtenheld have combined their extraordinary talents to create this exuberant, inspirational book for kids of endless good wishes. ",
+    "Ratings": null
+  },
+  {
+    "Id": "book14",
+    "Author": "Amy Greco",
+    "img": "https://m.media-amazon.com/images/I/51-dywcznlL._AC_UL320_.jpg",
+    "Title": "Along the Way with Molly: A Children\u0027s Book about Learning, Kindness, and Friendship.",
+    "Description": "Meet Molly! She\u2019s a curious puppy with the looks of an adorable teddy bear. She learns and grows as she goes on all kinds of adventures. In this first book of the Molly Bear series, Molly sets out to fetch her favorite bone\u2026but along the way, she discovers the bone is not the only treasure to be found. ",
+    "Ratings": [
+      1,
+      2,
+      5,
+      4,
+      5,
+      4,
+      5
+    ]
+  }
+]   "Description": "Meet Molly! She’s a curious puppy with the looks of an adorable teddy bear. She learns and grows as she goes on all kinds of adventures. In this first book of the Molly Bear series, Molly sets out to fetch her favorite bone…but along the way, she discovers the bone is not the only treasure to be found. ",
+        "Ratings": [
+            1,
+            2,
+            5,
+            4,
+            5,
+            4,
+            5
+        ]
+    }
+]
